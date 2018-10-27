@@ -154,7 +154,7 @@ The RGB shading model relates nearly to the way we see shading with the r,g and 
  
  ![Figure 11](https://raw.githubusercontent.com/yavuzkaralu/Unmanned-Ground-Vehicle/master/Figures/Figure%2011-1.png)
   ![Figure 11](https://raw.githubusercontent.com/yavuzkaralu/Unmanned-Ground-Vehicle/master/Figures/Figure%2011-2.png)
-  ![Figure 11](https://raw.githubusercontent.com/yavuzkaralu/Unmanned-Ground-Vehicle/master/Figures/Figure%2011-2.png)
+  ![Figure 11](https://raw.githubusercontent.com/yavuzkaralu/Unmanned-Ground-Vehicle/master/Figures/Figure%2011-3.png)
 *Figure 11*
 
 #### 3.4.	Building a Body
